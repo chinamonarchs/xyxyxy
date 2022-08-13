@@ -4,3 +4,4 @@
 已搭建网站:https://xy.xyxyxy.ml
 测试账号:test1
 测试密码:test1
+请关闭浏览器翻译,要不显示不正常
