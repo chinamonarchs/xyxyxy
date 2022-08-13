@@ -1,4 +1,6 @@
 ---
+联系邮箱:xyxyxy2022@protonmail.com
+---
 发布版本
 --- 
 - 最新版本[https://xy.xyxyxy.ml](https://xy.xyxyxy.ml)
