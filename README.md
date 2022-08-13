@@ -5,3 +5,16 @@
 已搭建网站:https://xy.xyxyxy.ml
 测试账号:test1
 测试密码:test1
+---
+基础教程-抢拍教程
+--- 
+<video id="video" controls="" preload="none" poster="封面" width="320" height="240">
+      <source id="mp4" src="https://xy.xyxyxy.ml/jcys.mp4" type="video/mp4">
+      <source id="mp4" src="https://xy.xyxyxy.ml/jcys.mp4" type="video/mp4">
+</video>
+
+
+<video id="video" controls="" preload="none" poster="封面" width="320" height="240">
+      <source id="mp4" src="https://xy.xyxyxy.ml/qpys.mp4" type="video/mp4">
+      <source id="mp4" src="https://xy.xyxyxy.ml/qpys.mp4" type="video/mp4">
+</video>
